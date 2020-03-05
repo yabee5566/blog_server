@@ -18,6 +18,7 @@ public class User {
     private String shortName;
     private String gender; //TODO: Make this enum and study how to interact with enun in JPA
     private String email;
+
     protected User(){} //The default constructor exists only for the sake of JPA.
                             //The other constructor is the one you use to create instances of Customer to be saved to the database.
 

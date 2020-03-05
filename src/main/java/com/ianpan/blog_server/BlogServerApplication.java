@@ -1,7 +1,7 @@
 package com.ianpan.blog_server;
 
 import com.ianpan.blog_server.model.User;
-import com.ianpan.blog_server.service.UserRepository;
+import com.ianpan.blog_server.repository.UserRepository;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.boot.CommandLineRunner;

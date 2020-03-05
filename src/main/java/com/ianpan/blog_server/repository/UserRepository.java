@@ -1,4 +1,4 @@
-package com.ianpan.blog_server.service;
+package com.ianpan.blog_server.repository;
 
 
 import com.ianpan.blog_server.model.User;
